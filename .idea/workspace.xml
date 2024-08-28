@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b3a596d2-eaa6-4d83-87e4-b72cfcdf92bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +36,11 @@
     "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/TG05-API-DATA"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\TG05-API-DATA" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
